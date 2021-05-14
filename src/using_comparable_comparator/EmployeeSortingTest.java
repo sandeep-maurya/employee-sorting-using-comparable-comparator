@@ -14,6 +14,8 @@ public class EmployeeSortingTest {
 
         ArrayList<Employee> empList = new ArrayList<Employee>();
 
+        // Add Employee into List
+
         empList.add(emp1);
         empList.add(emp2);
         empList.add(emp3);
